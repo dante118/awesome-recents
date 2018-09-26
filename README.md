@@ -5,7 +5,7 @@
 
 ## Другие языки
 
-* [English](https://github.com/pantyusha/awesome-recents/edit/master/README-en.md)
+* [English](https://github.com/netstalking-core/awesome-recents/master/README.md)
 
 ## Изображения
 
@@ -24,3 +24,7 @@
 - [DeepPaste](http://depastedihrn3jtw.onion/) - сервис чтобы делиться своими текстами/заметками/пастами. Нет фильтрации, есть возможность создания приватых паст (доступны только по мд5/ссылке) или самоуничтожающихся заметок. 
 - [Fresh Onions](http://zlal32teyptf4tvi.onion/) - знаменитый граббер и каталог .onion ссылок, есть фильтрация по запрещенным словам. Имеет расширенный поиск по индексу и просмотр последних добавленных.
  - [Daniel - Onion link list](https://onions.danwin1210.me/onions.php?cat=20&pg=1&lang=en) - последние 50 сайтов, созданные на бесплатном .onion-хостинге.
+
+## Текстовые обменники
+ - [Pastebin](https://pastebin.com/archive)
+ - [vpaste](http://vpaste.net/#uploads)
