@@ -25,6 +25,15 @@
 - [Fresh Onions](http://zlal32teyptf4tvi.onion/) - знаменитый граббер и каталог .onion ссылок, есть фильтрация по запрещенным словам. Имеет расширенный поиск по индексу и просмотр последних добавленных.
  - [Daniel - Onion link list](https://onions.danwin1210.me/onions.php?cat=20&pg=1&lang=en) - последние 50 сайтов, созданные на бесплатном .onion-хостинге.
 
-## Текстовые обменники
+## Текстовые обменники / пастбины
  - [Pastebin](https://pastebin.com/archive)
  - [vpaste](http://vpaste.net/#uploads)
+ - [Snipplr](https://snipplr.com/all/)
+ - [Codepad](http://codepad.org/recent)
+ - [GitHubGists](https://gist.github.com/discover)
+ - [Ideone](https://ideone.com/recent)
+ - [paste.org.ru](http://paste.org.ru/)
+ - [paste.opensuse.org](http://paste.opensuse.org/lists)
+ - [paste.kde.org](https://paste.kde.org/all)
+ - [paste.debian.net](http://paste.debian.net/)
+ - [pastebin.fr](http://pastebin.fr/)
