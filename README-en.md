@@ -3,7 +3,7 @@
 
 - [Mangle](http://www.mangle.ca/randomlj.php)  - last 25 images uploaded to Livejournal
 
-- [Радикал](http://radikal.ru/Img/ShowGallery) - last images uploaded to image hosting RadicalPhoto (Радикал-Фото).
+- [Radikal](http://radikal.ru/Img/ShowGallery) - last images uploaded to image hosting RadicalFoto (Russian).
 # File sharing services
 
 - [RGHost](http://rgho.st/files) - official interface to access most recently uploaded files. It's possible to sort and filter the results by their type and publication date
