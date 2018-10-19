@@ -10,7 +10,7 @@
 ## Изображения
 
 - [Imgur](https://imgur.com/new/time) - последние сообщения с [Imgur](https://imgur.com/), можно выбирать категорию и тип сортировки.
-- [Mangle](http://www.mangle.ca/randomlj.php) - последние 25 изображений, загруженных в [Livejournal](http://www.livejournal.com/)
+- [Mangle](http://www.mangle.ca/randomlj.php) - последние 25 изображений, загруженных в [Livejournal](http://www.livejournal.com/).
 - [Радикал](http://radikal.ru/Img/ShowGallery) - последние изображения, залитые на хостинг Радикал-Фото.
 
 ## Файлообменники
@@ -20,7 +20,7 @@
 
 ## Сайты
 
-- [Neocities - последние созданные](https://neocities.org/browse?sort_by=newest) - новые сайты на бесплатном хостинге Neocities.
+- [Neocities - последние созданные](https://neocities.org/browse?sort_by=newest) - новые сайты на бесплатном хостинге [Neocities](https://neocities.org/).
 - [Neocities - последние обновлённые](https://neocities.org/browse?sort_by=last_updated) - последние обновлённые страницы там же.
 
 ## Сайты Tor
@@ -31,6 +31,7 @@
  - [Daniel - Onion link list](https://onions.danwin1210.me/onions.php?cat=20&pg=1&lang=en) - последние 50 сайтов, созданные на бесплатном .onion-хостинге.
  
 ## Текстовые обменники / пастбины
+
  - [Pastebin](https://pastebin.com/archive)
  - [vpaste](http://vpaste.net/#uploads)
  - [Snipplr](https://snipplr.com/all/)
