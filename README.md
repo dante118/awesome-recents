@@ -5,7 +5,7 @@
 
 ## Другие языки
 
-* [English](https://github.com/netstalking-core/awesome-recents/master/README.md)
+* [English](https://github.com/netstalking-core/awesome-recents/master/README-en.md)
 
 ## Изображения
 
