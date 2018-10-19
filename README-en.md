@@ -5,7 +5,7 @@ List of services for obtaining last results.
 
 ## Other languages
 
-* [Russian](https://github.com/netstalking-core/awesome-recents/master/README.md)
+* [Russian](https://github.com/netstalking-core/awesome-recents/blob/master/README.md)
 
 # Images
 
